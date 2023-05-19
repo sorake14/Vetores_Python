@@ -13,4 +13,4 @@ media_vetores2 = calcular_media(vetor2)
 
 media_final = (media_vetores1 + media_vetores2) / 2
 
-print (media_final)
+print ("A média do estudante é de: ", media_final)
